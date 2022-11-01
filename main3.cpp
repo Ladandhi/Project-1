@@ -12,9 +12,6 @@ float xdiff = 0;
 float ydiff = 0;
 bool mouseDown = false;
 
-
-
-
 //Deklarasi pengaturan lembaran kerja agar Gambar 3d yang kita buat saat diputar atau di geser tidak kemana mana
 void ukur(int lebar, int tinggi){
 if(tinggi==0) tinggi=1;
